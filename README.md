@@ -1,0 +1,1 @@
+# recursos-dimensionamentos-vm-azure-dio
